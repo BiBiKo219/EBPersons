@@ -43,7 +43,7 @@ There are 2 JSON files in `data/cocovid_all/annotations`:
 
 `coco_vid_annotations_val.json`: JSON file contains the annotations information of the validation set in EBPersons dataset.
 
-3. Follow the instructions in 'run.sh' and [quick_run](https://github.com/open-mmlab/mmtracking/blob/master/docs/en/quick_run.md) for specific usage guidelines and any additional requirements. The weight of the baseline method can be downloaded in [baseline weights]()
+3. Follow the instructions in 'run.sh' and [quick_run](https://github.com/open-mmlab/mmtracking/blob/master/docs/en/quick_run.md) for specific usage guidelines and any additional requirements. The weight of the baseline method can be downloaded in [baseline weights](https://drive.google.com/file/d/1_AQOY1KB14y1d8MeNY88E85iggN2PhSh/view?usp=drive_link)
 
 ## Ethical Considerations
 All individuals appearing in the videos shot by us are volunteers who provided informed consent after receiving a full explanation of the project’s purpose and data collection procedures. Necessary authorization was obtained from relevant organizations to conduct video shooting within the vicinity of the buildings. All corresponding authorization documentation is available on the dataset website.
